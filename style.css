@@ -1,0 +1,52 @@
+.pquote {
+    float: right;
+    width: 200px;
+    background: url(images/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
+nav .nav-wrapper {
+  background-color: #E82E21;
+}
+nav ul a {
+  font-size: 20px;
+  font-family: helvetica neue;
+}
+#logo {
+  height: 64px;
+}
+blockquote {
+    margin: 0;
+}
+.pquote p:first-letter {
+    font-size: 32px;
+    font-weight: bold;
+}
+.container {
+  font-size: 20px;
+  margin-top: 16px;
+}
+.parallax{
+    background-image: url("http://www.newschoolfreepress.com/wp-content/uploads/2019/04/Arun_Nevader_Getty_Images.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+#header {
+  font-family: verdana;
+  font-size: 42px;
+}
+.carousel {
+  margin-bottom: 40px;
+}
+img {
+  height: 300px;
+}
+#cred {
+  font-size: 18px;
+}
